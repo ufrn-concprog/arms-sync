@@ -1,4 +1,4 @@
-# Trabalho Prático: Um Sistema de Gestão de Pista de Aeroporto
+# Trabalho Prático: Um sistema de gestão de pista de aeroporto
 
 <sub>Última atualização: 05/01/2025</sub>
 
